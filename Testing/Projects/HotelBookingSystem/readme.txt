@@ -1,0 +1,1 @@
+Implemented Mockito Mock & Answer with JUnit 4
