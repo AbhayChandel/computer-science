@@ -1,4 +1,4 @@
-package com.zerosolutions.ComputerScience;
+package org.problems;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

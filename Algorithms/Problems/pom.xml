@@ -6,11 +6,11 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>com.zerosolutions</groupId>
-		<artifactId>ComputerScience</artifactId>
+		<artifactId>Algorithms</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<artifactId>Algorithms</artifactId>
-	<name>Algorithms</name>
+	<artifactId>AlgorithmProblems</artifactId>
+	<name>Problems</name>
 	<url>http://maven.apache.org</url>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -19,11 +19,8 @@
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
+			<version>3.8.1</version>
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-	<packaging>pom</packaging>
-	<modules>
-		<module>Problems</module>
-	</modules>
 </project>
